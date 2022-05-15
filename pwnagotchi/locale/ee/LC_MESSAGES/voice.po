@@ -1,0 +1,250 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-29 21:50+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ZzzzZZzzzzZzzz"
+msgstr ""
+
+msgid "Hi, I'm Pwnagotchi! Starting ..."
+msgstr "Tere, olen Pwnagotchi! Käivitun ..."
+
+msgid "New day, new hunt, new pwns!"
+msgstr ""
+
+msgid "Hack the Planet!"
+msgstr "Häki planeet!"
+
+msgid "AI ready."
+msgstr ""
+
+msgid "The neural network is ready."
+msgstr ""
+
+msgid "Generating keys, do not turn off ..."
+msgstr ""
+
+#, python-brace-format
+msgid "Hey, channel {channel} is free! Your AP will say thanks."
+msgstr ""
+
+msgid "Reading last session logs ..."
+msgstr "Loen eelmise sessiooni logisid..."
+
+#, python-brace-format
+msgid "Read {lines_so_far} log lines so far ..."
+msgstr "Read {lines_so_far} log lines so far ..."
+
+msgid "I'm bored ..."
+msgstr "Mul on igav..."
+
+msgid "Let's go for a walk!"
+msgstr "Lähme jalutama!"
+
+msgid "This is the best day of my life!"
+msgstr ""
+
+msgid "Shitty day :/"
+msgstr ""
+
+msgid "I'm extremely bored ..."
+msgstr "Mul on jube igav ..."
+
+msgid "I'm very sad ..."
+msgstr "Ma olen väga kurb ..."
+
+msgid "I'm sad"
+msgstr "Ma olen kurb"
+
+msgid "Leave me alone ..."
+msgstr "Jäta mind rahule ..."
+
+msgid "I'm mad at you!"
+msgstr "Ma olen kuri su peale!"
+
+msgid "I'm living the life!"
+msgstr ""
+
+msgid "I pwn therefore I am."
+msgstr ""
+
+msgid "So many networks!!!"
+msgstr "Nii palju võrke!!!"
+
+msgid "I'm having so much fun!"
+msgstr "Mul on nii lõbus!"
+
+msgid "My crime is that of curiosity ..."
+msgstr "Mu kriminaalsus tuleneb uudishimust ..."
+
+#, python-brace-format
+msgid "Hello {name}! Nice to meet you."
+msgstr "Tere {name}! Tore tutvuda sinuga."
+
+#, python-brace-format
+msgid "Yo {name}! Sup?"
+msgstr "Yo {name}! Sup?"
+
+#, python-brace-format
+msgid "Hey {name} how are you doing?"
+msgstr "Tsau {name} kuidas läheb?"
+
+#, python-brace-format
+msgid "Unit {name} is nearby!"
+msgstr "Üksus {name} on lähedal!"
+
+#, python-brace-format
+msgid "Uhm ... goodbye {name}"
+msgstr "Uhm ... head aega {name}"
+
+#, python-brace-format
+msgid "{name} is gone ..."
+msgstr "{name} on läinud ..."
+
+#, python-brace-format
+msgid "Whoops ... {name} is gone."
+msgstr "Oops ... {name} on kadunud."
+
+#, python-brace-format
+msgid "{name} missed!"
+msgstr ""
+
+msgid "Missed!"
+msgstr ""
+
+msgid "Good friends are a blessing!"
+msgstr ""
+
+msgid "I love my friends!"
+msgstr "Ma armastan oma sõpru!"
+
+msgid "Nobody wants to play with me ..."
+msgstr "Keegi ei taha minuga mängida ..."
+
+msgid "I feel so alone ..."
+msgstr "Ma tunnen ennast nii üksikult ..."
+
+msgid "Where's everybody?!"
+msgstr "Kus kõik on?!"
+
+#, python-brace-format
+msgid "Napping for {secs}s ..."
+msgstr "Ma magan {secs}s ..."
+
+msgid "Zzzzz"
+msgstr "Zzzz"
+
+#, python-brace-format
+msgid "ZzzZzzz ({secs}s)"
+msgstr "ZzzZzzz ({secs}s)"
+
+msgid "Good night."
+msgstr "Head ööd."
+
+msgid "Zzz"
+msgstr "Zzz"
+
+#, python-brace-format
+msgid "Waiting for {secs}s ..."
+msgstr "Ootan {secs}s ..."
+
+#, python-brace-format
+msgid "Looking around ({secs}s)"
+msgstr "Vaatan ringi ({secs}s)"
+
+#, python-brace-format
+msgid "Hey {what} let's be friends!"
+msgstr "Hei {what} saame sõbraks!"
+
+#, python-brace-format
+msgid "Associating to {what}"
+msgstr "Associating to {what}"
+
+#, python-brace-format
+msgid "Yo {what}!"
+msgstr "Tsau {what}!"
+
+#, python-brace-format
+msgid "Just decided that {mac} needs no WiFi!"
+msgstr "Otsustasin, et {mac} ei vaja WiFi-t!"
+
+#, python-brace-format
+msgid "Deauthenticating {mac}"
+msgstr "De-autentin {mac}"
+
+#, python-brace-format
+msgid "Kickbanning {mac}!"
+msgstr "Kickbannin {mac}!"
+
+#, python-brace-format
+msgid "Cool, we got {num} new handshake{plural}!"
+msgstr "Äge, saime {num} uut handshake{plural}!"
+
+#, python-brace-format
+msgid "You have {count} new message{plural}!"
+msgstr "Sul on {count} uut sõnumit{plural}!"
+
+msgid "Oops, something went wrong ... Rebooting ..."
+msgstr "Oops, midagi on valesti ... Taaskäivitan ..."
+
+#, python-brace-format
+msgid "Kicked {num} stations\n"
+msgstr "Andsin kinga {num} jaamale\n"
+
+#, python-brace-format
+msgid "Made {num} new friends\n"
+msgstr "Leidsin {num} uut sõpra\n"
+
+#, python-brace-format
+msgid "Got {num} handshakes\n"
+msgstr "Sain {num} handshake-i\n"
+
+msgid "Met 1 peer"
+msgstr ""
+
+#, python-brace-format
+msgid "Met {num} peers"
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"I've been pwning for {duration} and kicked {deauthed} clients! I've also met "
+"{associated} new friends and ate {handshakes} handshakes! #pwnagotchi "
+"#pwnlog #pwnlife #hacktheplanet #skynet"
+msgstr ""
+
+msgid "hours"
+msgstr "tunnid"
+
+msgid "minutes"
+msgstr "minutid"
+
+msgid "seconds"
+msgstr "sekundid"
+
+msgid "hour"
+msgstr "tund"
+
+msgid "minute"
+msgstr "minut"
+
+msgid "second"
+msgstr "sekund"
+
+#, python-brace-format
+msgid "Uploading data to {to} ..."
+msgstr "Laen andmeid -> {to} ..."
